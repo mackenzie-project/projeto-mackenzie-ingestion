@@ -1,6 +1,15 @@
-# Projeto de Ingestão de Dados utilizando Cloud Scheduler, Cloud Functions, Google Cloud Storage e Google Bigquery
+# Projeto do MBA de Engenharia de Dados
 
-Este projeto tem por finalidade automatizar o processo de extração de arquivos CSV disponíveis na plataforma de dados Kaggle, armazenar o dataset em um datalake no Google Cloud Storage e então, realizar a ingestão desses dados em uma tabela no Google BigQuery para análise.
+## Projeto de previsão de fraude em transações financeiras
+
+Este projeto tem por finalidade compor parte da avalição das disciplinas de Dados E Analytics nas Organizações, Data Lakes, Lakehouses e Datas Meshes, Governança de Daddos e Hands-on Fundamentos de Ddos e Analytics do curso de MBA em Engenharia de Dados.
+O projeto consiste em criar um modelo de previsão de fraudes em transações financeira, e, para isso foram realizados os seguintes passos:
+- Automação do processo de extração de arquivos CSV disponíveis na plataforma de dados Kaggle;
+- Armazenamento do dataset em um datalake no Google Cloud Storage;
+- Ingestão do daods em uma tabela no google BigQuery;
+- Criação de modelagem dimensional e separação de camadas utilizando o DBT;
+- Criação do modelod de previsão de fraudes;
+- Dashboard no Power BI.
 
 ## Arquitetura do Sistema
 
