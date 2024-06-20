@@ -11,6 +11,14 @@ O projeto consiste em criar um modelo de previsão de fraudes em transações fi
 - Criação do modelod de previsão de fraudes;
 - Dashboard no Power BI.
 
+### Integrantes
+| Nome               | Função                                              |
+|--------------------|-----------------------------------------------------|
+| Fabio Emanoel    | Analista de dados                                    |
+| Lais Helena  | Engenheira de Machine Learn                              |
+| Neoaquison Medeiros     | Engenheiro de dados e Governaça de dados                                       |
+| Tainá Costa    | Product Manager e Analista de dados |
+
 ## Arquitetura do Sistema
 
 1. **Cloud Scheduler**: Schedular o job para a coleta de dados.
