@@ -72,6 +72,33 @@ Adotar uma abordagem equilibrada na gestão de dados, combinando elementos centr
 
 - Preparar a infraestrutura de dados para suportar aplicações de IA e ML, considerando aspectos de conformidade regulatória, MLOps e ética, para garantir a segurança e eficácia dessas tecnologias.
 
+### Ética empresarial
+Integridade e Honestidade
+
+- Transparência: Atuamos com total transparência em todas as nossas ações e comunicações. Fornecemos informações claras e precisas sobre nossos serviços e resultados.
+- Verdade: Comprometemo-nos a ser honestos em todas as interações com clientes, parceiros e colegas de trabalho.
+Responsabilidade e Confiabilidade
+- Responsabilidade: Assumimos total responsabilidade por nossas ações e pelos serviços prestados. Reconhecemos nossos erros e trabalhamos para corrigi-los prontamente.
+- Confiabilidade: Nossos clientes e parceiros podem confiar que cumpriremos nossos compromissos e forneceremos serviços eficazes e de alta qualidade.
+Excelência e Qualidade
+- Profissionalismo: Mantemos os mais altos padrões de profissionalismo em todas as nossas atividades e interações.
+- Melhoria Contínua: Buscamos constantemente melhorar nossos processos, tecnologias e conhecimentos para oferecer soluções de ponta na prevenção de fraudes.
+Respeito e Igualdade
+- Respeito: Tratamos todos os indivíduos com respeito e dignidade, independentemente de suas origens, cargos ou circunstâncias.
+- Igualdade: Promovemos um ambiente de trabalho inclusivo e justo, onde todos têm as mesmas oportunidades e são avaliados com base em seu mérito e desempenho.
+Compromisso com a Ética
+
+
+Todos os colaboradores da nossa empresa de controle de fraude de cartão de crédito são responsáveis por seguir este código de ética. Esperamos que cada membro da equipe adote esses princípios e siga de acordo com eles, garantindo que nossas operações sejam conduzidas com a mais alta integridade e responsabilidade.
+
+### Princípios de Governança de Dados
+- Integridade dos Dados: os dados devem ser precisos, completos e consistentes. Todos os processos de coleta, armazenamento e processamento devem ser projetados para manter a integridade dos dados.
+- Confidencialidade dos Dados: 
+os dados devem ser protegidos contra acesso não autorizado. Informações sensíveis, especialmente dados de clientes e transações financeiras, devem ser criptografadas e acessíveis somente por pessoal autorizado.
+- Disponibilidade dos Dados: 
+os dados devem estar disponíveis quando necessário para processos de negócio e decisões estratégicas, sem comprometer a segurança.
+
+
 ### Conclusão
 A estratégia de dados e governança da Mack Financial Solutions é fundamentada na crença de que os dados são um ativo estratégico vital. Ao adotar esta estratégia, a empresa se posicionará para aproveitar plenamente o potencial dos dados, impulsionando a inovação, melhorando a eficiência operacional e fortalecendo a relação com os clientes.
 
